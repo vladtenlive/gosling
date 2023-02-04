@@ -76,6 +76,8 @@ https://gobyexample.com
 
 https://quii.gitbook.io/learn-go-with-tests/
 
+https://code-basics.com/ru/languages/go
+
 ## Tuts Advanced
 https://cmc.gitbook.io/go-internals/
 https://github.com/emluque/golang-internals-resources
