@@ -29,6 +29,8 @@ https://github.com/OWASP/Go-SCP
 
 
 ## Blog
+https://www.ardanlabs.com/blog/
+
 https://medium.com/a-journey-with-go
 
 https://threedots.tech/start/
