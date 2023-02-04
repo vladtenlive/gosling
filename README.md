@@ -7,6 +7,7 @@ Official Golang wiki: https://github.com/golang/go/wiki
 Go Tour <https://go.dev/tour/list>
 
 
+https://go.dev/talks/2014/go4gophers.slide#1
 TODO: goslings interactive tutorial
 
 
