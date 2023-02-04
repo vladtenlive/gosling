@@ -1,4 +1,19 @@
-# GOsling [draft raw TODO: cleanup]
+# GOsling 🐹 [draft raw TODO: cleanup]
+
+```
+        ,_---~~~~~----._
+  _,,_,*^____      _____``*g*\"*,
+ / __/ /'     ^.  /      \ ^@q   f
+[  @f | @))    |  | @))   l  0 _/
+ \`/   \~____ / __ \_____/    \
+  |           _l__l_           I
+  }          [______]           I
+  ]            | | |            |
+  ]             ~ ~             |
+  |                            |
+   |                           |   
+```
+
 
 Official Golang wiki: https://github.com/golang/go/wiki
 
