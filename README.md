@@ -111,6 +111,8 @@
 
 [Pion](https://pion.ly/)
 
+[Watermill](https://watermill.io/)
+
 ## Databases
 
 [Go database/sql tutorial (go-database-sql.org)](http://go-database-sql.org/index.html)
