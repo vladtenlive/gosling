@@ -33,7 +33,7 @@
 
 [OWASP/Go-SCP: Go programming language secure coding practices guide (github.com)](https://github.com/OWASP/Go-SCP)
 
-## Bloggers
+## Blogs
 
 [Go (Golang) Programming Blog - Ardan Labs](https://www.ardanlabs.com/blog/)
 
