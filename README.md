@@ -9,6 +9,8 @@
 
 [A Tour of Go](https://go.dev/tour/list)
 
+[Ultimate Go Tour](https://tour.ardanlabs.com/tour/list)
+
 [How to Write Go Code - The Go Programming Language](https://go.dev/doc/code)
 
 [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
