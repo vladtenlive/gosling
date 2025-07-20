@@ -15,6 +15,9 @@
 
 [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
 
+[RedHatGo](https://github.com/RedHatOfficial/GoCourse)
+
+
 [GopherCon 2014 Closing Day Keynote by Andrew Gerrand - YouTube](https://www.youtube.com/watch?v=dKGmK_Z1Zl0)
 
 ## Practice! You can't learn kung fu by watching kung fu!
