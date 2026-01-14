@@ -26,6 +26,8 @@
 
 [CodeCrafters | Advanced programming challenges](https://codecrafters.io/)
 
+[Go Katas](https://github.com/MedUnes/go-kata)
+
 ## Read the spec! Source code is the key
 
 [The Go Programming Language Specification - The Go Programming Language](https://go.dev/ref/spec)
