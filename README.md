@@ -78,6 +78,8 @@
 
 [Learn Go with Tests - Learn Go with tests (gitbook.io)](https://quii.gitbook.io/learn-go-with-tests/)
 
+[Go Patterns](https://go-patterns.dev)
+
 ## GOing deep
 
 [go-internals - Go Internals (gitbook.io)](https://cmc.gitbook.io/go-internals/)
