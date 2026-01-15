@@ -28,6 +28,8 @@
 
 [Go Katas](https://github.com/MedUnes/go-kata)
 
+[Concurrency Rocks](https://www.concurrency.rocks/patterns/goroutine-leak-infinite-loop) 
+
 ## Read the spec! Source code is the key
 
 [The Go Programming Language Specification - The Go Programming Language](https://go.dev/ref/spec)
